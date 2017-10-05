@@ -220,7 +220,7 @@ blockquote span {
   background: var(--gold);
   cursor: pointer;
 }
-.progress:hover:after {
+.progress:hover:after, .player:hover {
 	content: 'Listen to Steambreather by Mastodon';
 	margin: auto;
 }
